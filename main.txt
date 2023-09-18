@@ -1,5 +1,12 @@
 m1
 
+<<<<<<< HEAD
 //main changes
 
 //akshay changes
+=======
+//akshay changes
+a1
+
+
+>>>>>>> 33b8d97651d2c996514d3bcef60b83710b0ec5b0
