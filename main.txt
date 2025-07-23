@@ -3,9 +3,3 @@ m1
 
 //akshay changes
 a1
-
-new test for rebase
-
-new test for rebase 2
-
-new test for rebase 3
