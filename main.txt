@@ -2,10 +2,7 @@ m1
 
 
 //akshay changes
-<<<<<<< HEAD
 a1
 
-feature 1
-=======
-a1
->>>>>>> master
+
+// changes from the feature
